@@ -3,7 +3,7 @@
 __̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫̲͡ ̲̲̲͡͡π̲̲͡͡ ̲̲͡▫̲̲͡͡ ̲|̡̡̡ ̡ ̴̡ı̴̡̡ ̡͌l̡̡̡̡.___
 <br><br>
 <em>Welcome to my profile! I'm Andrew.<br>
-I'm engineer currently transitioning into software.<br>
+I'm an engineer currently transitioning into software.<br>
 I hold a degree in BSc Engineering Product Design,<br>
 and I've been studying software independently.<br>
 </em>
