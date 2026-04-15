@@ -1,16 +1,49 @@
+<div align="center">
+<!-- <h2>Welcome!</h2> -->                                                                                   
+__̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫̲͡ ̲̲̲͡͡π̲̲͡͡ ̲̲͡▫̲̲͡͡ ̲|̡̡̡ ̡ ̴̡ı̴̡̡ ̡͌l̡̡̡̡.___
+<br><br>
+<em>Welcome to my profile! I'm Andrew.<br>
+I'm engineer currently transitioning into software.</em>
+  
+<br>
 
+<h3>Main Projects</h3>
 
-<!--
-**AMirandaCodes/AMirandaCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/AMirandaCodes/CoWrite-app.git">**CoWrite**</a>: A Full-stack collaborative platform
+<br><em>· Python · Flask · SQLAlchemy ·</em>
 
-Here are some ideas to get you started:
+<a href="https://github.com/AMirandaCodes/Stanford-algorithms.git">**Algorithms**</a>: Implementation of core algorithms 
+<br><em>· Python ·</em>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/AMirandaCodes/VBA-automations.git">**VBA Automations**</a>: For Word and file management
+<br><em>· VBA ·</em>
+
+<br>
+
+<h3>Courses completed</h3>
+[ ████████████████████ ] 
+<br><em>100%</em>
+
+🎓 **CS50x – Introduction to Computer Science** (Harvard)  
+🎓 **Algorithms: Design and Analysis** (Stanford)  
+🎓 **PCAP – Python Certification Course** (KodeKloud)  
+🎓 **Git for Beginners** (KodeKloud)  
+🐧 **Learning Linux Basics Course & Labs** (KodeKloud)
+
+<br>
+
+<h3>Courses currently studying...</h3>
+
+🐳 **Docker for Absolute Beginners** (KodeKloud)
+
+[ ████████████████▒▒▒▒ ] 
+<br><em>Loading...</em>
+
+°º¤ø,¸¸,ø¤º°°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°°º¤ø,¸°º¤ø,¸¸,ø¤º°°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°°º¤ø,¸
+
+<h4>Connect with me</h4>
+
+💼 **LinkedIn**: <a href="www.linkedin.com/in/andrew-miranda-004085200">Andrew Miranda</a>  
+💻 **GitHub**: You're already here!
+
+</div>
