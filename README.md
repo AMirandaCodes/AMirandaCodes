@@ -2,12 +2,12 @@
 <!-- <h2>Welcome!</h2> -->                                                                                   
 __̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫̲͡ ̲̲̲͡͡π̲̲͡͡ ̲̲͡▫̲̲͡͡ ̲|̡̡̡ ̡ ̴̡ı̴̡̡ ̡͌l̡̡̡̡.___
 <br><br>
-<em>Welcome to my profile! I'm Andrew.<br>
+<em>Welcome to my profile! I'm Andrew.<br><br>
 I'm an engineer currently transitioning into software.<br>
-I hold a degree in BSc Engineering Product Design,<br>
+I hold a degree in 'BSc Engineering Product Design'<br>
 and I've been studying software independently.<br>
 </em>
-
+<br>
 <h3>Main Projects</h3>
 
 <a href="https://github.com/AMirandaCodes/CoWrite-app.git">**CoWrite**</a>: A Full-stack collaborative platform
@@ -19,7 +19,7 @@ and I've been studying software independently.<br>
 <a href="https://github.com/AMirandaCodes/VBA-automations.git">**VBA Automations**</a>: For Word and file management
 <br><em>· VBA ·</em>
 
-
+<br>
 <h3>Courses completed</h3>
 [ ████████████████████ ] 
 <br><em>100%</em>
@@ -37,8 +37,8 @@ and I've been studying software independently.<br>
 🐳 **Docker for Absolute Beginners** (KodeKloud)
 
 [ ███████████████▒▒▒▒ ] 
-<br><em>Loading...</em>
-
+<br><em>Loading...</em><br>
+<br>
 ,ø¤º°°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°°º¤ø,¸¸,ø¤º°°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°°º¤ø,¸
 <br>
 
