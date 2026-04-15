@@ -3,9 +3,10 @@
 __̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫̲͡ ̲̲̲͡͡π̲̲͡͡ ̲̲͡▫̲̲͡͡ ̲|̡̡̡ ̡ ̴̡ı̴̡̡ ̡͌l̡̡̡̡.___
 <br><br>
 <em>Welcome to my profile! I'm Andrew.<br>
-I'm engineer currently transitioning into software.</em>
-  
-<br>
+I'm engineer currently transitioning into software.<br>
+I hold a degree in BSc Engineering Product Design,<br>
+and I've been studying software independently.<br>
+</em>
 
 <h3>Main Projects</h3>
 
@@ -18,7 +19,6 @@ I'm engineer currently transitioning into software.</em>
 <a href="https://github.com/AMirandaCodes/VBA-automations.git">**VBA Automations**</a>: For Word and file management
 <br><em>· VBA ·</em>
 
-<br>
 
 <h3>Courses completed</h3>
 [ ████████████████████ ] 
@@ -28,7 +28,7 @@ I'm engineer currently transitioning into software.</em>
 🎓 **Algorithms: Design and Analysis** (Stanford)  
 🎓 **PCAP – Python Certification Course** (KodeKloud)  
 🎓 **Git for Beginners** (KodeKloud)  
-🐧 **Learning Linux Basics Course & Labs** (KodeKloud)
+🐧 **Linux Basics Course & Labs** (KodeKloud)
 
 <br>
 
@@ -36,7 +36,7 @@ I'm engineer currently transitioning into software.</em>
 
 🐳 **Docker for Absolute Beginners** (KodeKloud)
 
-[ ████████████████▒▒▒▒ ] 
+[ ███████████████▒▒▒▒ ] 
 <br><em>Loading...</em>
 
 °º¤ø,¸¸,ø¤º°°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°°º¤ø,¸°º¤ø,¸¸,ø¤º°°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°°º¤ø,¸
