@@ -28,13 +28,14 @@ and I've been studying software independently.<br>
 🎓 **Algorithms: Design and Analysis** (Stanford)  
 🎓 **PCAP – Python Certification Course** (KodeKloud)  
 🎓 **Git for Beginners** (KodeKloud)  
-🐧 **Linux Basics Course & Labs** (KodeKloud)
+🐧 **Linux Basics Course & Labs** (KodeKloud)  
+🐳 **Docker for Absolute Beginners** (KodeKloud)  
 
 <br>
 
 <h3>Courses currently studying...</h3>
 
-🐳 **Docker for Absolute Beginners** (KodeKloud)
+🐚 **Advanced Bash Scripting** (KodeKloud)
 
 [ ███████████████▒▒▒▒ ] 
 <br><em>Loading...</em><br>
