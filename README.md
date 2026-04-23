@@ -19,6 +19,9 @@ and I've been studying software independently.<br>
 <a href="https://github.com/AMirandaCodes/VBA-automations.git">**VBA Automations**</a>: For Word and file management
 <br><em>· VBA ·</em>
 
+<a href="https://github.com/AMirandaCodes/Power-Automate-workflows.git">**Power Automate flows**</a>: For SharePoint automations
+<br><em>· Power Automate ·</em>
+
 <br>
 <h3>Courses completed</h3>
 [ ████████████████████ ] 
