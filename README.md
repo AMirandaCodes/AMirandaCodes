@@ -33,16 +33,10 @@ and I've been studying software independently.<br>
 🎓 **Git for Beginners** (KodeKloud)  
 🐧 **Linux Basics Course & Labs** (KodeKloud)  
 🐳 **Docker for Absolute Beginners** (KodeKloud)  
-
-<br>
-
-<h3>Courses currently studying...</h3>
-
 🐚 **Advanced Bash Scripting** (KodeKloud)
 
-[ ███████████████▒▒▒▒ ] 
-<br><em>Loading...</em><br>
 <br>
+
 ,ø¤º°°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°°º¤ø,¸¸,ø¤º°°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°°º¤ø,¸
 <br>
 
