@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=STEM%20Engineer%20turned%20Developer;Full-stack%20Python%20%26%20React%20dev;Building%20tools%20for%20real%20business%20impact;Always%20learning%20new%20things&font=Georgia&center=true&width=440&height=45&color=2F855A&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=STEM%20Engineer%20turned%20Developer;Full-stack%20Python%20%26%20React%20dev;Building%20tools%20for%20real%20business%20impact;FastAPI%2C%20React%2C%20PostgreSQL%2C%20Docker&font=Georgia&center=true&width=440&height=45&color=2F855A&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </p>
 
 <!-- Social icons section -->
@@ -9,17 +9,6 @@
   <a href="https://www.linkedin.com/in/andrew-miranda-004085200"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-2f855a?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<br/>
-
-<!-- Stats badges section -->
-<p align="center">
-  <a href="https://github.com/AMirandaCodes?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AMirandaCodes?color=2f855a&style=for-the-badge&labelColor=246b48&logo=star"/></a>
-  <a href="https://github.com/AMirandaCodes?tab=followers">
-    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/AMirandaCodes?color=3182ce&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
-
-<br/>
 
 ## 🚀 Featured Projects
 
@@ -28,7 +17,7 @@
     <td width="50%" valign="top">
       <h3>StillThere</h3>
       <b>Contact Verification Platform</b>
-      <p>A full-stack application to check whether someone still works at a specific company.</p>
+      <p>Verify whether a business contact is still employed at a company using automated verification workflows.</p>
       <p>
         <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
         <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white">
@@ -50,7 +39,7 @@
     <td width="50%" valign="top">
       <h3>NextPost</h3>
       <b>Social Media Planning Platform</b>
-      <p>A planning tool designed to help teams organise and manage social media content.</p>
+      <p>Lightweight social media planning platform for organising content calendars and publication workflows.</p>
       <p>
         <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
         <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white">
@@ -74,7 +63,7 @@
   </tr>
 </table>
 
-## 🛠️ Technical Skills
+## 🛠️ Development
 
 <table align="center">
   <tr>
