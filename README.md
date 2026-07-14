@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring%20Software%20Engineer;Full-stack%20Python%20%26%20React%20dev;APIs%2C%20backends%20%26%20automation;Always%20learning%20new%20things&font=Georgia&center=true&width=440&height=45&color=2F855A&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=STEM%20Engineer%20turned%20Developer;Full-stack%20Python%20%26%20React%20dev;Building%20tools%20for%20real%20business%20impact;Always%20learning%20new%20things&font=Georgia&center=true&width=440&height=45&color=2F855A&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </p>
 
 <!-- Social icons section -->
