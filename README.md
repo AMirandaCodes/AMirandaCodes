@@ -4,9 +4,9 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://github.com/AMirandaCodes"><img width="32px" alt="GitHub" title="GitHub" src="https://i.imgur.com/9I6NRUm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/andrew-miranda-004085200"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://github.com/AMirandaCodes"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/-GitHub-2f855a?style=for-the-badge&logo=github&logoColor=white"/></a>
+  &#8287;
+  <a href="https://www.linkedin.com/in/andrew-miranda-004085200"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-2f855a?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -21,146 +21,172 @@
 
 <br/>
 
-<details open>
-  <summary><h2>🚀 Featured Projects</h2></summary>
+## 🚀 Featured Projects
 
-  <!-- Repo pin cards - https://github.com/anuraghazra/github-readme-stats#github-extra-pins -->
-  <p align="left">
-    <a href="https://github.com/AMirandaCodes/stillthere"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AMirandaCodes&repo=stillthere&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="stillthere"></a>
-    <a href="https://github.com/AMirandaCodes/NextPost"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AMirandaCodes&repo=NextPost&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="NextPost"></a>
-  </p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>StillThere</h3>
+      <b>Contact Verification Platform</b>
+      <p>A full-stack application to check whether someone still works at a specific company.</p>
+      <p>
+        <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+        <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white">
+        <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
+        <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
+        <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
+      </p>
+      <b>Key areas</b>
+      <ul>
+        <li>REST API design</li>
+        <li>Authentication</li>
+        <li>Database modelling</li>
+        <li>Production deployment</li>
+      </ul>
+      <a href="https://stillthere-frontend.onrender.com"><img alt="Live Demo" title="View Live Demo" src="https://custom-icon-badges.demolab.com/badge/-Live%20Demo-2f855a?style=for-the-badge&logoColor=white&logo=play"/></a>
+      &#8287;
+      <a href="https://github.com/AMirandaCodes/stillthere"><img alt="Repo" title="View Repository" src="https://custom-icon-badges.demolab.com/badge/-Repository-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>NextPost</h3>
+      <b>Social Media Planning Platform</b>
+      <p>A planning tool designed to help teams organise and manage social media content.</p>
+      <p>
+        <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+        <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white">
+        <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
+        <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+        <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
+      </p>
+      <b>Key areas</b>
+      <ul>
+        <li>JWT authentication</li>
+        <li>Calendar workflows</li>
+        <li>Image management</li>
+        <li>Automated reminders</li>
+        <li>Testing</li>
+      </ul>
+      <a href="https://nextpost-frontend.onrender.com"><img alt="Live Demo" title="View Live Demo" src="https://custom-icon-badges.demolab.com/badge/-Live%20Demo-3182ce?style=for-the-badge&logoColor=white&logo=play"/></a>
+      &#8287;
+      <a href="https://github.com/AMirandaCodes/NextPost"><img alt="Repo" title="View Repository" src="https://custom-icon-badges.demolab.com/badge/-Repository-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+    </td>
+  </tr>
+</table>
 
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <b>StillThere — Contact Verification Platform</b>
-        <p>A full-stack application to check whether someone still works at a specific company.</p>
-        <p>
-          <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-          <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white">
-          <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
-          <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
-          <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
-        </p>
-        <b>Key areas</b>
-        <ul>
-          <li>REST API design</li>
-          <li>Authentication</li>
-          <li>Database modelling</li>
-          <li>Production deployment</li>
-        </ul>
-        <a href="https://stillthere-frontend.onrender.com"><img alt="Live Demo" title="View Live Demo" src="https://custom-icon-badges.demolab.com/badge/-Live%20Demo-2f855a?style=for-the-badge&logoColor=white&logo=play"/></a>
-        &#8287;
-        <a href="https://github.com/AMirandaCodes/stillthere"><img alt="Repo" title="View Repository" src="https://custom-icon-badges.demolab.com/badge/-Repository-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-      </td>
-      <td width="50%" valign="top">
-        <b>NextPost — Social Media Planning Platform</b>
-        <p>A planning tool designed to help teams organise and manage social media content.</p>
-        <p>
-          <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-          <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white">
-          <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
-          <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
-          <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
-          <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
-        </p>
-        <b>Key areas</b>
-        <ul>
-          <li>JWT authentication</li>
-          <li>Calendar workflows</li>
-          <li>Image management</li>
-          <li>Automated reminders</li>
-          <li>Testing</li>
-        </ul>
-        <a href="https://nextpost-frontend.onrender.com"><img alt="Live Demo" title="View Live Demo" src="https://custom-icon-badges.demolab.com/badge/-Live%20Demo-3182ce?style=for-the-badge&logoColor=white&logo=play"/></a>
-        &#8287;
-        <a href="https://github.com/AMirandaCodes/NextPost"><img alt="Repo" title="View Repository" src="https://custom-icon-badges.demolab.com/badge/-Repository-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-      </td>
-    </tr>
-  </table>
-</details>
+## 🛠️ Technical Skills
 
-<details open>
-  <summary><h2>🛠️ Technical Skills</h2></summary>
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <h3>Backend</h3>
+      <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"><br>
+      <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white"><br>
+      <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"><br>
+      <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"><br>
+      <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3>Frontend</h3>
+      <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"><br>
+      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"><br>
+      <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"><br>
+      <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"><br>
+      <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?logo=tailwindcss&logoColor=white">
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3>Tools</h3>
+      <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"><br>
+      <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"><br>
+      <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"><br>
+      <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white">
+    </td>
+  </tr>
+</table>
 
-  <h3>Backend</h3>
-  <p>
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white">
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
-    <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
-  </p>
+## 📘 Background
 
-  <h3>Frontend</h3>
-  <p>
-    <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?logo=tailwindcss&logoColor=white">
-  </p>
+<p align="center">
+  <img alt="Manufacturing Engineer" src="https://img.shields.io/badge/🔧_Manufacturing_Engineer-2f855a?style=for-the-badge&logoColor=white">
+  ➜
+  <img alt="Independent Study" src="https://img.shields.io/badge/📚_Independent_Study-3182ce?style=for-the-badge&logoColor=white">
+  ➜
+  <img alt="Software Engineer" src="https://img.shields.io/badge/💻_Software_Engineer_(in_progress)-6b46c1?style=for-the-badge&logoColor=white">
+</p>
 
-  <h3>Tools</h3>
-  <p>
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black">
-    <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white">
-  </p>
-</details>
+<p align="center">
+  Full-time Manufacturing Engineer building internal tools, automating workflows, and improving data systems with <b>Python, SQL & VBA</b> — now applying that same problem-solving mindset to full-stack software development.
+</p>
 
-<details open>
-  <summary><h2>📘 Background</h2></summary>
-  <p>
-    I am an engineer transitioning into software development through independent study while working full-time as a Manufacturing Engineer.
-  </p>
-  <p>
-    My engineering experience includes building internal tools, automating workflows, and improving data systems using Python, SQL, and VBA.
-  </p>
-  <p>
-    This background has shaped my approach to software: <b>understanding problems, designing practical solutions, and continuously improving systems.</b>
-  </p>
-</details>
+## 📕 Other Projects
 
-<details>
-  <summary><h2>📕 Other Projects</h2></summary>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>CoWrite</b>
+      <p>Collaborative full-stack writing platform</p>
+      <p>
+        <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+        <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
+        <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-D71F00.svg?logo=sqlalchemy&logoColor=white">
+      </p>
+      <a href="https://github.com/AMirandaCodes/CoWrite-app"><img alt="Repo" title="View Repository" src="https://custom-icon-badges.demolab.com/badge/-Repository-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+    </td>
+    <td width="33%" valign="top">
+      <b>Algorithms</b>
+      <p>Implementation of fundamental algorithms from Stanford's Algorithms course</p>
+      <p>
+        <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+      </p>
+      <a href="https://github.com/AMirandaCodes/Stanford-algorithms"><img alt="Repo" title="View Repository" src="https://custom-icon-badges.demolab.com/badge/-Repository-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+    </td>
+    <td width="33%" valign="top">
+      <b>VBA Automations</b>
+      <p>Automation tooling for Word and file management</p>
+      <p>
+        <img alt="VBA" src="https://img.shields.io/badge/VBA-000000.svg?logo=microsoftexcel&logoColor=white">
+      </p>
+      <a href="https://github.com/AMirandaCodes/VBA-automations"><img alt="Repo" title="View Repository" src="https://custom-icon-badges.demolab.com/badge/-Repository-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+    </td>
+  </tr>
+</table>
 
-  <!-- Repo pin cards - https://github.com/anuraghazra/github-readme-stats#github-extra-pins -->
-  <p align="left">
-    <a href="https://github.com/AMirandaCodes/CoWrite-app"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AMirandaCodes&repo=CoWrite-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="CoWrite-app"></a>
-    <a href="https://github.com/AMirandaCodes/Stanford-algorithms"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AMirandaCodes&repo=Stanford-algorithms&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Stanford-algorithms"></a>
-    <a href="https://github.com/AMirandaCodes/VBA-automations"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=AMirandaCodes&repo=VBA-automations&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="VBA-automations"></a>
-  </p>
+<a href="https://github.com/AMirandaCodes?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
-  <a href="https://github.com/AMirandaCodes?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
+## 🎓 Computer Science Education
 
-<details>
-  <summary><h2>🎓 Computer Science Education</h2></summary>
-  <ul>
-    <li>CS50x — Introduction to Computer Science (Harvard)</li>
-    <li>Algorithms: Design and Analysis (Stanford)</li>
-    <li>PCAP Python Certification (KodeKloud)</li>
-    <li>Linux, Git & Docker training (KodeKloud)</li>
-  </ul>
-</details>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <b>🎓 CS50x</b>
+      <p>Introduction to Computer Science — Harvard</p>
+    </td>
+    <td width="50%" valign="top">
+      <b>🧮 Algorithms: Design and Analysis</b>
+      <p>Stanford</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🐍 PCAP Python Certification</b>
+      <p>KodeKloud</p>
+    </td>
+    <td width="50%" valign="top">
+      <b>🐧 Linux, Git &amp; Docker Training</b>
+      <p>KodeKloud</p>
+    </td>
+  </tr>
+</table>
 
-<details>
-  <summary><h2>📊 Stats and Activity</h2></summary>
+## 📊 Stats and Activity
 
-  <h3>🔥 Streak Stats</h3>
-  <p>
-    <img alt="Andrew's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=AMirandaCodes&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
-  </p>
+<h3>🔥 Streak Stats</h3>
+<p align="center">
+  <img alt="Andrew's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=AMirandaCodes&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+</p>
 
-  <h3>💻 GitHub Profile Stats</h3>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Andrew's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AMirandaCodes&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Andrew's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMirandaCodes&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-
-  <h3>📈 Activity Graph</h3>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Andrew's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AMirandaCodes&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-</details>
+<h3>📈 Activity Graph</h3>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Andrew's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AMirandaCodes&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
